@@ -1,6 +1,88 @@
 {
   "store_id": "enterprise",
-  "updated_at": "2026-05-25T21:11:23Z",
-  "codes": [],
+  "updated_at": "2026-05-25T21:55:44Z",
+  "codes": [
+    {
+      "code": "MEMDAY30",
+      "description": "Memorial Day: 30% off car rentals this weekend",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "ENT25",
+      "description": "25% off weekend rental",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "SAVE20CAR",
+      "description": "20% off base rate",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "EPLUS15",
+      "description": "15% off with Enterprise Plus",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "ENTWKND",
+      "description": "Weekend rental from $19.99/day",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "ENTNEW",
+      "description": "10% off first reservation",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "ENTAPP",
+      "description": "5% off Enterprise app booking",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "ENTLOYALTY",
+      "description": "Extra 15% off loyalty rewards",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "ENTBIZ",
+      "description": "10% off business travel rates",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
   "ai_deals": []
 }

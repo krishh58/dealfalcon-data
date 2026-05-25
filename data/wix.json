@@ -1,6 +1,88 @@
 {
   "store_id": "wix",
-  "updated_at": "2026-05-25T21:11:23Z",
-  "codes": [],
+  "updated_at": "2026-05-25T21:55:44Z",
+  "codes": [
+    {
+      "code": "MEMDAY25",
+      "description": "Memorial Day: 25% off all premium plans",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "WIXPRO10",
+      "description": "10% off premium plans",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "WIXSAVE",
+      "description": "20% off annual subscription",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "WIXNEW15",
+      "description": "15% off first year",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "WIXBIZ",
+      "description": "20% off Business plans",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "WIXFREE",
+      "description": "Free domain with annual plan",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "WIXAPP",
+      "description": "10% off Wix app purchase",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "WIXECOM",
+      "description": "25% off Business & eCommerce",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "WIXCORE",
+      "description": "15% off Core plan annual",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
   "ai_deals": []
 }

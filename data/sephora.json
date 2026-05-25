@@ -1,6 +1,88 @@
 {
   "store_id": "sephora",
-  "updated_at": "2026-05-25T21:11:23Z",
-  "codes": [],
+  "updated_at": "2026-05-25T21:55:44Z",
+  "codes": [
+    {
+      "code": "MDWBEAUTY",
+      "description": "Memorial Day Weekend: 20% off Beauty Insider",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "SAVINGS",
+      "description": "20% off full-price items",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "SEPH15",
+      "description": "15% off $50+",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "BEAUTYPASS",
+      "description": "Free shipping + samples",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "SEPHNEW",
+      "description": "10% off first order",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "SEPHROUGE",
+      "description": "Extra 20% off for Rouge members",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "SEPHVIB",
+      "description": "Extra 15% off for VIB members",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "SEPHAPP",
+      "description": "15% off Sephora app order",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "SEPHGIFT",
+      "description": "Free gift with $75+ purchase",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
   "ai_deals": []
 }

@@ -1,6 +1,88 @@
 {
   "store_id": "expedia",
-  "updated_at": "2026-05-25T21:11:23Z",
-  "codes": [],
+  "updated_at": "2026-05-25T21:55:44Z",
+  "codes": [
+    {
+      "code": "MEMDAY20",
+      "description": "Memorial Day: 20% off hotels + free cancel",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "EXPEDIA20",
+      "description": "20% off hotels",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "BUNDLE15",
+      "description": "15% off flight+hotel bundle",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "TRAVEL10",
+      "description": "10% off vacation packages",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "EXPMEMBER",
+      "description": "Extra 12% off Member prices",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "EXPAPP",
+      "description": "10% off Expedia app bookings",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "EXPLAST",
+      "description": "20% off last-minute travel deals",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "EXPFLIGHT",
+      "description": "$40 off flight+hotel bundle",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "EXPWEEKEND",
+      "description": "10% off weekend getaways",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
   "ai_deals": []
 }

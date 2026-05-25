@@ -1,6 +1,88 @@
 {
   "store_id": "bestbuy",
-  "updated_at": "2026-05-25T21:11:23Z",
-  "codes": [],
+  "updated_at": "2026-05-25T21:55:44Z",
+  "codes": [
+    {
+      "code": "MEMDAY30",
+      "description": "Memorial Day: $30 off $200+ purchase",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "SAVE15BB",
+      "description": "$15 off $100+",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "TECHSAVE",
+      "description": "Extra 10% off open-box",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "BBPLUS25",
+      "description": "$25 off $250+",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "BBTECH20",
+      "description": "20% off select laptops",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "BBTV15",
+      "description": "15% off select TVs",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "BBGAMING",
+      "description": "$10 off video games $50+",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "BBAPP10",
+      "description": "10% off app orders",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "BBTOTAL",
+      "description": "Free Geek Squad shipping",
+      "scraped_at": "2026-05-25T21:55:44Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
   "ai_deals": []
 }
