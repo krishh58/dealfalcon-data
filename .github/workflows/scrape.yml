@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 7 * * *'   # 7am UTC = 3am EST
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scraper/**']
 
 jobs:
   scrape:
