@@ -1,6 +1,34 @@
 {
   "store_id": "expressvpn",
-  "updated_at": "2026-05-25T20:21:53Z",
-  "codes": [],
+  "updated_at": "2026-05-25T20:34:46Z",
+  "codes": [
+    {
+      "code": "EXPRESSSAVE",
+      "description": "49% off annual plan",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "EVPN3FREE",
+      "description": "3 months free on annual",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "EXVPNSAVE",
+      "description": "35% off first year",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
   "ai_deals": []
 }

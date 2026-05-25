@@ -1,6 +1,34 @@
 {
   "store_id": "godaddy",
-  "updated_at": "2026-05-25T20:21:53Z",
-  "codes": [],
+  "updated_at": "2026-05-25T20:34:46Z",
+  "codes": [
+    {
+      "code": "SAVE35",
+      "description": "35% off any order",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "GDHOSTING",
+      "description": "55% off web hosting",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "GD30OFF",
+      "description": "30% off domains + hosting",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
   "ai_deals": []
 }

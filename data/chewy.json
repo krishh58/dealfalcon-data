@@ -1,6 +1,34 @@
 {
   "store_id": "chewy",
-  "updated_at": "2026-05-25T20:21:53Z",
-  "codes": [],
+  "updated_at": "2026-05-25T20:34:46Z",
+  "codes": [
+    {
+      "code": "CHEWY30",
+      "description": "30% off + free shipping first Autoship",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "NEWPET20",
+      "description": "20% off first order",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "CHEWYFRESH",
+      "description": "35% off first Autoship",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
   "ai_deals": []
 }

@@ -1,6 +1,34 @@
 {
   "store_id": "microsoft",
-  "updated_at": "2026-05-25T20:21:53Z",
-  "codes": [],
+  "updated_at": "2026-05-25T20:34:46Z",
+  "codes": [
+    {
+      "code": "MS365FAM",
+      "description": "20% off Microsoft 365 Family",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "MSBIZ15",
+      "description": "15% off Microsoft 365 Business",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "MSOFF30",
+      "description": "30% off annual 365 plan",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
   "ai_deals": []
 }

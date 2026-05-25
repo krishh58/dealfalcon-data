@@ -1,6 +1,34 @@
 {
   "store_id": "bluehost",
-  "updated_at": "2026-05-25T20:21:53Z",
-  "codes": [],
+  "updated_at": "2026-05-25T20:34:46Z",
+  "codes": [
+    {
+      "code": "BHNEW",
+      "description": "65% off hosting + free domain",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": true,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "BLUEFALL",
+      "description": "60% off shared plans",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    },
+    {
+      "code": "BHSAVE",
+      "description": "$2.95/mo intro rate",
+      "scraped_at": "2026-05-25T20:34:46Z",
+      "ai_score": 0,
+      "best_deal": false,
+      "thumbs_up": 0,
+      "thumbs_down": 0
+    }
+  ],
   "ai_deals": []
 }

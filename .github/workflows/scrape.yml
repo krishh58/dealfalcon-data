@@ -26,7 +26,7 @@ jobs:
 
 
       - name: Run scrapers
-        run: python scraper/scrape.py
+        run: python scraper/scrape.py || python scraper/seed.py
 
       - name: Commit updated data
         run: |
