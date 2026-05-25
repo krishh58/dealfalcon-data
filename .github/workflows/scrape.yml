@@ -1,0 +1,36 @@
+name: Scrape Coupons Daily
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 7am UTC = 3am EST
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python deps
+        run: pip install -r scraper/requirements.txt
+
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
+      - name: Run scrapers
+        run: python scraper/scrape.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "DealFalcon Bot"
+          git config user.email "bot@dealfalcon.app"
+          git add data/
+          git diff --staged --quiet && echo "No changes to commit" || \
+            (git commit -m "chore: daily coupon update $(date -u +%Y-%m-%d)" && git push)
