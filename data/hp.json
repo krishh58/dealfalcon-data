@@ -1,34 +1,6 @@
 {
   "store_id": "hp",
-  "updated_at": "2026-05-25T20:34:46Z",
-  "codes": [
-    {
-      "code": "HP20SAVE",
-      "description": "20% off PCs and printers",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "HPTECH15",
-      "description": "15% off $799+",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "HPNEW10",
-      "description": "10% off first purchase",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    }
-  ],
+  "updated_at": "2026-05-25T20:47:38Z",
+  "codes": [],
   "ai_deals": []
 }

@@ -1,34 +1,6 @@
 {
   "store_id": "gamestop",
-  "updated_at": "2026-05-25T20:34:46Z",
-  "codes": [
-    {
-      "code": "GSTOP10",
-      "description": "10% off $50+",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "GSPOWER",
-      "description": "Extra 10% off PowerUp rewards",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "TRADE20",
-      "description": "20% off trade-in value",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    }
-  ],
+  "updated_at": "2026-05-25T20:47:38Z",
+  "codes": [],
   "ai_deals": []
 }

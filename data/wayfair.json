@@ -1,34 +1,6 @@
 {
   "store_id": "wayfair",
-  "updated_at": "2026-05-25T20:34:46Z",
-  "codes": [
-    {
-      "code": "WAYFAIR10",
-      "description": "10% off first order",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "WAY15OFF",
-      "description": "15% off bedroom furniture",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "FREESHIP",
-      "description": "Free shipping on $35+",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    }
-  ],
+  "updated_at": "2026-05-25T20:47:38Z",
+  "codes": [],
   "ai_deals": []
 }

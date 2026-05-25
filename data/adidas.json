@@ -1,34 +1,6 @@
 {
   "store_id": "adidas",
-  "updated_at": "2026-05-25T20:34:46Z",
-  "codes": [
-    {
-      "code": "ADICLUB15",
-      "description": "15% off with adiClub",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "ADIDAS20",
-      "description": "20% off full price items",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "RUN25",
-      "description": "25% off running gear",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    }
-  ],
+  "updated_at": "2026-05-25T20:47:38Z",
+  "codes": [],
   "ai_deals": []
 }

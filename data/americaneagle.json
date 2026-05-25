@@ -1,34 +1,6 @@
 {
   "store_id": "americaneagle",
-  "updated_at": "2026-05-25T20:34:46Z",
-  "codes": [
-    {
-      "code": "AEFAM25",
-      "description": "25% off online orders",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "AEREAL",
-      "description": "30% off jeans + more",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "AESAVE20",
-      "description": "20% off $50+",
-      "scraped_at": "2026-05-25T20:34:46Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    }
-  ],
+  "updated_at": "2026-05-25T20:47:38Z",
+  "codes": [],
   "ai_deals": []
 }
