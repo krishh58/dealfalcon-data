@@ -3,15 +3,6 @@
   "updated_at": "2026-05-25T21:55:44Z",
   "codes": [
     {
-      "code": "MEMDAY",
-      "description": "Memorial Day: Buy 3 get 3 FREE",
-      "scraped_at": "2026-05-25T21:55:44Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
       "code": "SAVE20",
       "description": "20% off $30+",
       "scraped_at": "2026-05-25T21:55:44Z",

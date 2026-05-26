@@ -3,15 +3,6 @@
   "updated_at": "2026-05-25T21:55:44Z",
   "codes": [
     {
-      "code": "MEMDAY",
-      "description": "Memorial Day: Free chips & guac with any entree",
-      "scraped_at": "2026-05-25T21:55:44Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
       "code": "CHIPFREE",
       "description": "Free chips + guac with entree",
       "scraped_at": "2026-05-25T21:55:44Z",
