@@ -1,11 +1,11 @@
 {
   "store_id": "amazon",
-  "updated_at": "2026-05-30T09:21:34Z",
+  "updated_at": "2026-05-30T12:07:20Z",
   "codes": [
     {
       "code": "MEMDAY25",
       "description": "Memorial Day: 25% off select items",
-      "scraped_at": "2026-05-30T09:21:34Z",
+      "scraped_at": "2026-05-30T12:07:20Z",
       "ai_score": 0,
       "best_deal": true,
       "thumbs_up": 0,
@@ -14,7 +14,7 @@
     {
       "code": "DEALS25",
       "description": "25% off select items",
-      "scraped_at": "2026-05-30T09:21:34Z",
+      "scraped_at": "2026-05-30T12:07:20Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -23,7 +23,7 @@
     {
       "code": "SAVE10NOW",
       "description": "$10 off $50+",
-      "scraped_at": "2026-05-30T09:21:34Z",
+      "scraped_at": "2026-05-30T12:07:20Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -32,7 +32,7 @@
     {
       "code": "FRESH10",
       "description": "$10 off Amazon Fresh first order",
-      "scraped_at": "2026-05-30T09:21:34Z",
+      "scraped_at": "2026-05-30T12:07:20Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -41,7 +41,7 @@
     {
       "code": "PRIMEDAY20",
       "description": "20% off select Prime deals",
-      "scraped_at": "2026-05-30T09:21:34Z",
+      "scraped_at": "2026-05-30T12:07:20Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -50,7 +50,7 @@
     {
       "code": "AMZNEW15",
       "description": "15% off first subscribe & save",
-      "scraped_at": "2026-05-30T09:21:34Z",
+      "scraped_at": "2026-05-30T12:07:20Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -59,7 +59,7 @@
     {
       "code": "AMZFRESH5",
       "description": "$5 off $25+ grocery order",
-      "scraped_at": "2026-05-30T09:21:34Z",
+      "scraped_at": "2026-05-30T12:07:20Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -68,7 +68,7 @@
     {
       "code": "LIGHTNING10",
       "description": "10% off Lightning deals",
-      "scraped_at": "2026-05-30T09:21:34Z",
+      "scraped_at": "2026-05-30T12:07:20Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -77,7 +77,7 @@
     {
       "code": "PRIME30",
       "description": "30% off select clothing with Prime",
-      "scraped_at": "2026-05-30T09:21:34Z",
+      "scraped_at": "2026-05-30T12:07:20Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
