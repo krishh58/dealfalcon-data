@@ -1,11 +1,11 @@
 {
   "store_id": "macys",
-  "updated_at": "2026-06-04T10:45:50Z",
+  "updated_at": "2026-06-05T10:53:01Z",
   "codes": [
     {
       "code": "MEMDAY25",
       "description": "Memorial Day: 25% off sitewide",
-      "scraped_at": "2026-06-04T10:45:50Z",
+      "scraped_at": "2026-06-05T10:53:01Z",
       "ai_score": 0,
       "best_deal": true,
       "thumbs_up": 0,
@@ -14,7 +14,7 @@
     {
       "code": "FRIEND",
       "description": "Extra 25% off purchase",
-      "scraped_at": "2026-06-04T10:45:50Z",
+      "scraped_at": "2026-06-05T10:53:01Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -23,7 +23,7 @@
     {
       "code": "SAVE20",
       "description": "20% off regular prices",
-      "scraped_at": "2026-06-04T10:45:50Z",
+      "scraped_at": "2026-06-05T10:53:01Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -32,7 +32,7 @@
     {
       "code": "MACY25",
       "description": "25% off with promo",
-      "scraped_at": "2026-06-04T10:45:50Z",
+      "scraped_at": "2026-06-05T10:53:01Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -41,7 +41,7 @@
     {
       "code": "MACYSTAR",
       "description": "Extra 15% off with Star card",
-      "scraped_at": "2026-06-04T10:45:50Z",
+      "scraped_at": "2026-06-05T10:53:01Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -50,7 +50,7 @@
     {
       "code": "MACYHOME",
       "description": "30% off home items",
-      "scraped_at": "2026-06-04T10:45:50Z",
+      "scraped_at": "2026-06-05T10:53:01Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -59,7 +59,7 @@
     {
       "code": "MACYSHOES",
       "description": "25% off shoes & handbags",
-      "scraped_at": "2026-06-04T10:45:50Z",
+      "scraped_at": "2026-06-05T10:53:01Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -68,7 +68,7 @@
     {
       "code": "MACY15",
       "description": "$15 off $75+ purchase",
-      "scraped_at": "2026-06-04T10:45:50Z",
+      "scraped_at": "2026-06-05T10:53:01Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -77,7 +77,7 @@
     {
       "code": "MACYSHIP",
       "description": "Free shipping on $25+",
-      "scraped_at": "2026-06-04T10:45:50Z",
+      "scraped_at": "2026-06-05T10:53:01Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
