@@ -1,11 +1,11 @@
 {
   "store_id": "expressvpn",
-  "updated_at": "2026-06-07T10:07:30Z",
+  "updated_at": "2026-06-08T12:01:40Z",
   "codes": [
     {
       "code": "MEMDAY61",
       "description": "Memorial Day: 61% off + 4 months free",
-      "scraped_at": "2026-06-07T10:07:30Z",
+      "scraped_at": "2026-06-08T12:01:40Z",
       "ai_score": 0,
       "best_deal": true,
       "thumbs_up": 0,
@@ -14,7 +14,7 @@
     {
       "code": "EXPRESSSAVE",
       "description": "49% off annual plan",
-      "scraped_at": "2026-06-07T10:07:30Z",
+      "scraped_at": "2026-06-08T12:01:40Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -23,7 +23,7 @@
     {
       "code": "EVPN3FREE",
       "description": "3 months free on annual",
-      "scraped_at": "2026-06-07T10:07:30Z",
+      "scraped_at": "2026-06-08T12:01:40Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -32,7 +32,7 @@
     {
       "code": "EXVPNSAVE",
       "description": "35% off first year",
-      "scraped_at": "2026-06-07T10:07:30Z",
+      "scraped_at": "2026-06-08T12:01:40Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -41,7 +41,7 @@
     {
       "code": "EVPNBF",
       "description": "61% off + 4 months free",
-      "scraped_at": "2026-06-07T10:07:30Z",
+      "scraped_at": "2026-06-08T12:01:40Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -50,7 +50,7 @@
     {
       "code": "EVPNAPP",
       "description": "Extra month free app purchase",
-      "scraped_at": "2026-06-07T10:07:30Z",
+      "scraped_at": "2026-06-08T12:01:40Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -59,7 +59,7 @@
     {
       "code": "EVPNANNUAL",
       "description": "45% off 12-month plan",
-      "scraped_at": "2026-06-07T10:07:30Z",
+      "scraped_at": "2026-06-08T12:01:40Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -68,7 +68,7 @@
     {
       "code": "EVPN2YR",
       "description": "49% off 2-year subscription",
-      "scraped_at": "2026-06-07T10:07:30Z",
+      "scraped_at": "2026-06-08T12:01:40Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -77,7 +77,7 @@
     {
       "code": "EVPNNEW",
       "description": "30 days free trial extension",
-      "scraped_at": "2026-06-07T10:07:30Z",
+      "scraped_at": "2026-06-08T12:01:40Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
