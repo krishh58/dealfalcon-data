@@ -1,11 +1,11 @@
 {
   "store_id": "lenovo",
-  "updated_at": "2026-06-13T10:03:27Z",
+  "updated_at": "2026-06-14T10:31:38Z",
   "codes": [
     {
       "code": "MEMDAY20",
       "description": "Memorial Day: 20% off laptops + free shipping",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": true,
       "thumbs_up": 0,
@@ -14,7 +14,7 @@
     {
       "code": "LNVDEAL",
       "description": "Extra 10% off Think products",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -23,7 +23,7 @@
     {
       "code": "LENOVO15",
       "description": "15% off $699+",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -32,7 +32,7 @@
     {
       "code": "SCHOOLSAVE",
       "description": "10% off for students",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -41,7 +41,7 @@
     {
       "code": "LENOVOPRO",
       "description": "20% off Lenovo Pro account",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -50,7 +50,7 @@
     {
       "code": "LNOVXMAS",
       "description": "25% off Legion gaming laptops",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -59,7 +59,7 @@
     {
       "code": "LENOVOAPP",
       "description": "5% off Lenovo app orders",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -68,7 +68,7 @@
     {
       "code": "LNOVOREFURB",
       "description": "30% off certified refurbished",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -77,7 +77,7 @@
     {
       "code": "LNVOGAMING",
       "description": "15% off all gaming accessories",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,

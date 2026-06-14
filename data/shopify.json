@@ -1,11 +1,11 @@
 {
   "store_id": "shopify",
-  "updated_at": "2026-06-13T10:03:27Z",
+  "updated_at": "2026-06-14T10:31:38Z",
   "codes": [
     {
       "code": "MEMDAY",
       "description": "Memorial Day: 3 months for $1/month",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": true,
       "thumbs_up": 0,
@@ -14,7 +14,7 @@
     {
       "code": "SHOPIFY3",
       "description": "3 months for $1/month",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -23,7 +23,7 @@
     {
       "code": "SHOPNEW",
       "description": "$1/month for 3 months",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -32,7 +32,7 @@
     {
       "code": "SHOPGROW",
       "description": "First month free",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -41,7 +41,7 @@
     {
       "code": "SHOPANNUAL",
       "description": "25% off annual plan vs monthly",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -50,7 +50,7 @@
     {
       "code": "SHOPBIZ",
       "description": "Extra month free on Business plan",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -59,7 +59,7 @@
     {
       "code": "SHOPPAYMENTS",
       "description": "Reduced transaction fees first year",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -68,7 +68,7 @@
     {
       "code": "SHOPAPP",
       "description": "Free trial extended to 30 days",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -77,7 +77,7 @@
     {
       "code": "SHOPPLUS",
       "description": "$500 off first month Shopify Plus",
-      "scraped_at": "2026-06-13T10:03:27Z",
+      "scraped_at": "2026-06-14T10:31:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
