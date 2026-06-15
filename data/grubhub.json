@@ -1,11 +1,11 @@
 {
   "store_id": "grubhub",
-  "updated_at": "2026-06-14T10:31:38Z",
+  "updated_at": "2026-06-15T13:10:26Z",
   "codes": [
     {
       "code": "MEMDAY",
       "description": "Memorial Day: Free delivery + $5 off $25+",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": true,
       "thumbs_up": 0,
@@ -14,7 +14,7 @@
     {
       "code": "GRUB15",
       "description": "$15 off first order",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -23,7 +23,7 @@
     {
       "code": "HUNGRY10",
       "description": "$10 off $20+",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -32,7 +32,7 @@
     {
       "code": "GRUBFIRST",
       "description": "20% off first order",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -41,7 +41,7 @@
     {
       "code": "GRUBPLUS",
       "description": "Free Grubhub+ for 2 months",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -50,7 +50,7 @@
     {
       "code": "GRUBAPP",
       "description": "$5 off Grubhub app first order",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -59,7 +59,7 @@
     {
       "code": "GRUB5NOW",
       "description": "$5 off $25+ at select restaurants",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -68,7 +68,7 @@
     {
       "code": "GRUBPICK",
       "description": "Free delivery on pickup orders",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -77,7 +77,7 @@
     {
       "code": "GRUBLUNCH",
       "description": "$4 off lunch order $20+",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,

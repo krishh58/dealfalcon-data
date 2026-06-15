@@ -1,11 +1,11 @@
 {
   "store_id": "lowes",
-  "updated_at": "2026-06-14T10:31:38Z",
+  "updated_at": "2026-06-15T13:10:26Z",
   "codes": [
     {
       "code": "MEMDAY10",
       "description": "Memorial Day: 10% off outdoor & grills",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": true,
       "thumbs_up": 0,
@@ -14,7 +14,7 @@
     {
       "code": "LOWE10",
       "description": "10% off $50+",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -23,7 +23,7 @@
     {
       "code": "MYHOME20",
       "description": "20% off select appliances",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -32,7 +32,7 @@
     {
       "code": "LPROJECTS",
       "description": "5% off every day with card",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -41,7 +41,7 @@
     {
       "code": "LOWESPRO",
       "description": "10% off Pro account orders",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -50,7 +50,7 @@
     {
       "code": "LOWESAPP",
       "description": "5% off Lowe's app purchase",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -59,7 +59,7 @@
     {
       "code": "LOWESLAWN",
       "description": "15% off lawn & garden",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -68,7 +68,7 @@
     {
       "code": "LOWESKIT",
       "description": "20% off kitchens & baths",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -77,7 +77,7 @@
     {
       "code": "LOWESSHIP",
       "description": "Free shipping on $45+",
-      "scraped_at": "2026-06-14T10:31:38Z",
+      "scraped_at": "2026-06-15T13:10:26Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
