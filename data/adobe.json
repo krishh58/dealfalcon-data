@@ -1,11 +1,11 @@
 {
   "store_id": "adobe",
-  "updated_at": "2026-07-06T11:34:05Z",
+  "updated_at": "2026-07-07T10:30:46Z",
   "codes": [
     {
       "code": "MEMDAY45",
       "description": "Memorial Day: 45% off Creative Cloud",
-      "scraped_at": "2026-07-06T11:34:05Z",
+      "scraped_at": "2026-07-07T10:30:46Z",
       "ai_score": 0,
       "best_deal": true,
       "thumbs_up": 0,
@@ -14,7 +14,7 @@
     {
       "code": "ADOBE40",
       "description": "40% off Creative Cloud",
-      "scraped_at": "2026-07-06T11:34:05Z",
+      "scraped_at": "2026-07-07T10:30:46Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -23,7 +23,7 @@
     {
       "code": "ADOBEPRO",
       "description": "25% off All Apps plan",
-      "scraped_at": "2026-07-06T11:34:05Z",
+      "scraped_at": "2026-07-07T10:30:46Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -32,7 +32,7 @@
     {
       "code": "ADOBENEW",
       "description": "20% off first year",
-      "scraped_at": "2026-07-06T11:34:05Z",
+      "scraped_at": "2026-07-07T10:30:46Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -41,7 +41,7 @@
     {
       "code": "ADOBESTUD",
       "description": "65% off student & teacher edition",
-      "scraped_at": "2026-07-06T11:34:05Z",
+      "scraped_at": "2026-07-07T10:30:46Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -50,7 +50,7 @@
     {
       "code": "ADOBEBIZ",
       "description": "20% off Adobe Business plans",
-      "scraped_at": "2026-07-06T11:34:05Z",
+      "scraped_at": "2026-07-07T10:30:46Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -59,7 +59,7 @@
     {
       "code": "ADOBEFREE",
       "description": "30-day free trial extended",
-      "scraped_at": "2026-07-06T11:34:05Z",
+      "scraped_at": "2026-07-07T10:30:46Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -68,7 +68,7 @@
     {
       "code": "ADOBEPDF",
       "description": "30% off Acrobat DC plans",
-      "scraped_at": "2026-07-06T11:34:05Z",
+      "scraped_at": "2026-07-07T10:30:46Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -77,7 +77,7 @@
     {
       "code": "ADOBEMAG",
       "description": "15% off Lightroom + Photoshop",
-      "scraped_at": "2026-07-06T11:34:05Z",
+      "scraped_at": "2026-07-07T10:30:46Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
