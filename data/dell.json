@@ -1,11 +1,11 @@
 {
   "store_id": "dell",
-  "updated_at": "2026-07-12T09:10:01Z",
+  "updated_at": "2026-07-13T10:28:14Z",
   "codes": [
     {
       "code": "MEMDAY200",
       "description": "Memorial Day: $200 off select PCs",
-      "scraped_at": "2026-07-12T09:10:01Z",
+      "scraped_at": "2026-07-13T10:28:14Z",
       "ai_score": 0,
       "best_deal": true,
       "thumbs_up": 0,
@@ -14,7 +14,7 @@
     {
       "code": "DELL10",
       "description": "10% off laptops",
-      "scraped_at": "2026-07-12T09:10:01Z",
+      "scraped_at": "2026-07-13T10:28:14Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -23,7 +23,7 @@
     {
       "code": "SAVE15PC",
       "description": "15% off $799+",
-      "scraped_at": "2026-07-12T09:10:01Z",
+      "scraped_at": "2026-07-13T10:28:14Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -32,7 +32,7 @@
     {
       "code": "DELLXPS",
       "description": "Extra 15% off XPS systems",
-      "scraped_at": "2026-07-12T09:10:01Z",
+      "scraped_at": "2026-07-13T10:28:14Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -41,7 +41,7 @@
     {
       "code": "DELLSTUD",
       "description": "10% off student & educator",
-      "scraped_at": "2026-07-12T09:10:01Z",
+      "scraped_at": "2026-07-13T10:28:14Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -50,7 +50,7 @@
     {
       "code": "DELLSMB",
       "description": "20% off small business",
-      "scraped_at": "2026-07-12T09:10:01Z",
+      "scraped_at": "2026-07-13T10:28:14Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -59,7 +59,7 @@
     {
       "code": "DELLAWARD",
       "description": "$50 off $499+ online orders",
-      "scraped_at": "2026-07-12T09:10:01Z",
+      "scraped_at": "2026-07-13T10:28:14Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -68,7 +68,7 @@
     {
       "code": "DELLGAMING",
       "description": "15% off Alienware gaming",
-      "scraped_at": "2026-07-12T09:10:01Z",
+      "scraped_at": "2026-07-13T10:28:14Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
@@ -77,7 +77,7 @@
     {
       "code": "DELLREFURB",
       "description": "25% off Dell Outlet refurbished",
-      "scraped_at": "2026-07-12T09:10:01Z",
+      "scraped_at": "2026-07-13T10:28:14Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
