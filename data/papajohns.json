@@ -1,83 +1,11 @@
 {
   "store_id": "papajohns",
-  "updated_at": "2026-07-15T09:16:30Z",
+  "updated_at": "2026-07-16T09:08:33Z",
   "codes": [
     {
-      "code": "MEMDAY30",
-      "description": "Memorial Day: 30% off any order",
-      "scraped_at": "2026-07-15T09:16:30Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PAPA25",
-      "description": "25% off online orders",
-      "scraped_at": "2026-07-15T09:16:30Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PAPANEW",
-      "description": "25% off first order",
-      "scraped_at": "2026-07-15T09:16:30Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "EPIC25",
-      "description": "25% off any order",
-      "scraped_at": "2026-07-15T09:16:30Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PAPA40",
-      "description": "40% off 2+ large pizzas",
-      "scraped_at": "2026-07-15T09:16:30Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PAPACLUB",
-      "description": "10% off Papa Rewards orders",
-      "scraped_at": "2026-07-15T09:16:30Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PAPAFREE",
-      "description": "Free breadsticks with large pizza",
-      "scraped_at": "2026-07-15T09:16:30Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PAPAAPP",
-      "description": "30% off Papa Johns app order",
-      "scraped_at": "2026-07-15T09:16:30Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PAPACARRY",
-      "description": "$5 off $20+ carryout",
-      "scraped_at": "2026-07-15T09:16:30Z",
+      "code": "TRUE",
+      "description": "Discount at papajohns.com",
+      "scraped_at": "2026-07-16T09:08:33Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
