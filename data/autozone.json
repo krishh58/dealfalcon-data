@@ -1,83 +1,11 @@
 {
   "store_id": "autozone",
-  "updated_at": "2026-08-12T08:21:00Z",
+  "updated_at": "2026-08-13T08:11:38Z",
   "codes": [
     {
-      "code": "MEMDAY20",
-      "description": "Memorial Day: 20% off + free road trip kit",
-      "scraped_at": "2026-08-12T08:21:00Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "AZFALL20",
-      "description": "20% off online order",
-      "scraped_at": "2026-08-12T08:21:00Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "AZFREE",
-      "description": "Free next-day shipping on $35+",
-      "scraped_at": "2026-08-12T08:21:00Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "AUTO15",
-      "description": "15% off $50+",
-      "scraped_at": "2026-08-12T08:21:00Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "AZREWARDS",
-      "description": "2x AutoZone Rewards points",
-      "scraped_at": "2026-08-12T08:21:00Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "AZPRO",
-      "description": "10% off commercial accounts",
-      "scraped_at": "2026-08-12T08:21:00Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "AZAPP",
-      "description": "Extra 5% off AutoZone app",
-      "scraped_at": "2026-08-12T08:21:00Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "AZBATTERY",
-      "description": "$10 off battery purchase & install",
-      "scraped_at": "2026-08-12T08:21:00Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "AZOIL",
-      "description": "20% off motor oil & filters",
-      "scraped_at": "2026-08-12T08:21:00Z",
+      "code": "TRUE",
+      "description": "Discount at autozone.com",
+      "scraped_at": "2026-08-13T08:11:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
