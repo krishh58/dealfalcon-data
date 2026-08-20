@@ -1,11 +1,11 @@
 {
   "store_id": "squarespace",
-  "updated_at": "2026-08-19T07:30:35Z",
+  "updated_at": "2026-08-20T07:32:40Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at squarespace.com",
-      "scraped_at": "2026-08-19T07:30:35Z",
+      "scraped_at": "2026-08-20T07:32:40Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
