@@ -1,11 +1,11 @@
 {
   "store_id": "autozone",
-  "updated_at": "2026-09-04T11:53:44Z",
+  "updated_at": "2026-09-05T11:03:11Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at autozone.com",
-      "scraped_at": "2026-09-04T11:53:44Z",
+      "scraped_at": "2026-09-05T11:03:11Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
