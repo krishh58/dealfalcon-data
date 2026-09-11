@@ -1,83 +1,11 @@
 {
   "store_id": "petco",
-  "updated_at": "2026-09-10T12:09:35Z",
+  "updated_at": "2026-09-11T11:56:52Z",
   "codes": [
     {
-      "code": "MEMDAY15",
-      "description": "Memorial Day: 15% off + free shipping",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PETCO20",
-      "description": "20% off first repeat delivery",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "VITAL15",
-      "description": "15% off Vital Care members",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "NEWPET10",
-      "description": "10% off first order",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PETCOFOOD",
-      "description": "20% off premium pet food",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PETCOVET",
-      "description": "15% off vet services",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PETCOAPP",
-      "description": "10% off Petco app orders",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PETCOSHIP",
-      "description": "Free shipping on $35+",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "PETCOAUTO",
-      "description": "25% off repeat delivery orders",
-      "scraped_at": "2026-09-10T12:09:35Z",
+      "code": "TRUE",
+      "description": "Discount at petco.com",
+      "scraped_at": "2026-09-11T11:56:52Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,

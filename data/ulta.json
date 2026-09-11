@@ -1,83 +1,11 @@
 {
   "store_id": "ulta",
-  "updated_at": "2026-09-10T12:09:35Z",
+  "updated_at": "2026-09-11T11:56:52Z",
   "codes": [
     {
-      "code": "MEMDAY21",
-      "description": "Memorial Day: 21% off entire purchase",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "LOVE21",
-      "description": "20% off entire order",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "ULTA30",
-      "description": "30% off prestige brands",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "ULTANEW",
-      "description": "15% off first app purchase",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "ULTAPTS",
-      "description": "2x points on all purchases",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "ULTASALE",
-      "description": "Extra 20% off 21 Days of Beauty",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "ULTAFREE",
-      "description": "Free gift with $40+ purchase",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "ULTAAPP",
-      "description": "10% off Ulta app orders",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "ULTAGLOW",
-      "description": "15% off skincare",
-      "scraped_at": "2026-09-10T12:09:35Z",
+      "code": "TRUE",
+      "description": "Discount at ulta.com",
+      "scraped_at": "2026-09-11T11:56:52Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,

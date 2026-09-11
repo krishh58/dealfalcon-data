@@ -1,83 +1,11 @@
 {
   "store_id": "hostinger",
-  "updated_at": "2026-09-10T12:09:35Z",
+  "updated_at": "2026-09-11T11:56:52Z",
   "codes": [
     {
-      "code": "MEMDAY82",
-      "description": "Memorial Day: 82% off + 3 months free",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": true,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "HOSTFRIEND",
-      "description": "20% extra off",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "HGBF24",
-      "description": "78% off premium hosting",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "HOST80",
-      "description": "80% off annual plans",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "HGPRO",
-      "description": "75% off Business hosting",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "HGWEB",
-      "description": "Free domain + SSL with hosting",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "HGCLOUD",
-      "description": "70% off cloud hosting plans",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "HGVPS",
-      "description": "50% off VPS hosting",
-      "scraped_at": "2026-09-10T12:09:35Z",
-      "ai_score": 0,
-      "best_deal": false,
-      "thumbs_up": 0,
-      "thumbs_down": 0
-    },
-    {
-      "code": "HGSTARTER",
-      "description": "79% off Starter plan",
-      "scraped_at": "2026-09-10T12:09:35Z",
+      "code": "TRUE",
+      "description": "Discount at hostinger.com",
+      "scraped_at": "2026-09-11T11:56:52Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
