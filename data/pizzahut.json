@@ -1,11 +1,11 @@
 {
   "store_id": "pizzahut",
-  "updated_at": "2026-09-11T11:56:52Z",
+  "updated_at": "2026-09-12T11:23:38Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at pizzahut.com",
-      "scraped_at": "2026-09-11T11:56:52Z",
+      "scraped_at": "2026-09-12T11:23:38Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
