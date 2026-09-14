@@ -1,11 +1,11 @@
 {
   "store_id": "adidas",
-  "updated_at": "2026-09-13T12:27:01Z",
+  "updated_at": "2026-09-14T13:30:12Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at adidas.com",
-      "scraped_at": "2026-09-13T12:27:01Z",
+      "scraped_at": "2026-09-14T13:30:12Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
