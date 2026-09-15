@@ -1,11 +1,11 @@
 {
   "store_id": "hp",
-  "updated_at": "2026-09-14T13:30:12Z",
+  "updated_at": "2026-09-15T12:21:41Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at hp.com",
-      "scraped_at": "2026-09-14T13:30:12Z",
+      "scraped_at": "2026-09-15T12:21:41Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
