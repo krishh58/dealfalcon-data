@@ -1,11 +1,11 @@
 {
   "store_id": "petco",
-  "updated_at": "2026-09-18T11:59:00Z",
+  "updated_at": "2026-09-19T11:43:05Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at petco.com",
-      "scraped_at": "2026-09-18T11:59:00Z",
+      "scraped_at": "2026-09-19T11:43:05Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
