@@ -1,11 +1,11 @@
 {
   "store_id": "walmart",
-  "updated_at": "2026-09-22T12:13:27Z",
+  "updated_at": "2026-09-23T12:26:42Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at walmart.com",
-      "scraped_at": "2026-09-22T12:13:27Z",
+      "scraped_at": "2026-09-23T12:26:42Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
