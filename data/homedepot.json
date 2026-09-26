@@ -1,11 +1,11 @@
 {
   "store_id": "homedepot",
-  "updated_at": "2026-09-25T12:26:06Z",
+  "updated_at": "2026-09-26T11:58:01Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at homedepot.com",
-      "scraped_at": "2026-09-25T12:26:06Z",
+      "scraped_at": "2026-09-26T11:58:01Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
