@@ -1,11 +1,11 @@
 {
   "store_id": "hostinger",
-  "updated_at": "2026-09-26T11:58:01Z",
+  "updated_at": "2026-09-27T12:35:39Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at hostinger.com",
-      "scraped_at": "2026-09-26T11:58:01Z",
+      "scraped_at": "2026-09-27T12:35:39Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
