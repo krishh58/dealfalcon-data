@@ -1,11 +1,11 @@
 {
   "store_id": "namecheap",
-  "updated_at": "2026-09-27T12:35:39Z",
+  "updated_at": "2026-09-28T14:43:39Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at namecheap.com",
-      "scraped_at": "2026-09-27T12:35:39Z",
+      "scraped_at": "2026-09-28T14:43:39Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
