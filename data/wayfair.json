@@ -1,11 +1,11 @@
 {
   "store_id": "wayfair",
-  "updated_at": "2026-09-30T13:11:44Z",
+  "updated_at": "2026-10-01T14:01:43Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at wayfair.com",
-      "scraped_at": "2026-09-30T13:11:44Z",
+      "scraped_at": "2026-10-01T14:01:43Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
