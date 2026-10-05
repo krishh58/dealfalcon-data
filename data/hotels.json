@@ -1,11 +1,11 @@
 {
   "store_id": "hotels",
-  "updated_at": "2026-10-04T12:57:14Z",
+  "updated_at": "2026-10-05T15:25:00Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at hotels.com",
-      "scraped_at": "2026-10-04T12:57:14Z",
+      "scraped_at": "2026-10-05T15:25:00Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
