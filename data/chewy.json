@@ -1,11 +1,11 @@
 {
   "store_id": "chewy",
-  "updated_at": "2026-10-11T13:39:01Z",
+  "updated_at": "2026-10-12T16:20:08Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at chewy.com",
-      "scraped_at": "2026-10-11T13:39:01Z",
+      "scraped_at": "2026-10-12T16:20:08Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
