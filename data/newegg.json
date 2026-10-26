@@ -1,11 +1,11 @@
 {
   "store_id": "newegg",
-  "updated_at": "2026-10-25T12:12:50Z",
+  "updated_at": "2026-10-26T13:44:24Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at newegg.com",
-      "scraped_at": "2026-10-25T12:12:50Z",
+      "scraped_at": "2026-10-26T13:44:24Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
