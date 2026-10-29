@@ -1,11 +1,11 @@
 {
   "store_id": "gamestop",
-  "updated_at": "2026-10-28T13:40:29Z",
+  "updated_at": "2026-10-29T13:50:47Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at gamestop.com",
-      "scraped_at": "2026-10-28T13:40:29Z",
+      "scraped_at": "2026-10-29T13:50:47Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
