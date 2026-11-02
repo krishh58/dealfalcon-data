@@ -1,11 +1,11 @@
 {
   "store_id": "microsoft",
-  "updated_at": "2026-11-01T13:55:27Z",
+  "updated_at": "2026-11-02T16:41:30Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at microsoft.com",
-      "scraped_at": "2026-11-01T13:55:27Z",
+      "scraped_at": "2026-11-02T16:41:30Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
