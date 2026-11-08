@@ -1,11 +1,11 @@
 {
   "store_id": "grubhub",
-  "updated_at": "2026-11-07T13:39:30Z",
+  "updated_at": "2026-11-08T13:58:25Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at grubhub.com",
-      "scraped_at": "2026-11-07T13:39:30Z",
+      "scraped_at": "2026-11-08T13:58:25Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
