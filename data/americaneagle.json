@@ -1,11 +1,11 @@
 {
   "store_id": "americaneagle",
-  "updated_at": "2026-11-17T16:34:46Z",
+  "updated_at": "2026-11-18T16:03:27Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at ae.com",
-      "scraped_at": "2026-11-17T16:34:46Z",
+      "scraped_at": "2026-11-18T16:03:27Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
