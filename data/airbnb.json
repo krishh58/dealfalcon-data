@@ -1,11 +1,11 @@
 {
   "store_id": "airbnb",
-  "updated_at": "2026-11-18T16:03:27Z",
+  "updated_at": "2026-11-19T16:10:41Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at airbnb.com",
-      "scraped_at": "2026-11-18T16:03:27Z",
+      "scraped_at": "2026-11-19T16:10:41Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
