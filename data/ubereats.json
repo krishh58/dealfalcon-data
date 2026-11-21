@@ -1,11 +1,11 @@
 {
   "store_id": "ubereats",
-  "updated_at": "2026-11-20T15:50:47Z",
+  "updated_at": "2026-11-21T14:59:56Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at ubereats.com",
-      "scraped_at": "2026-11-20T15:50:47Z",
+      "scraped_at": "2026-11-21T14:59:56Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
