@@ -1,11 +1,11 @@
 {
   "store_id": "chipotle",
-  "updated_at": "2026-11-21T14:59:56Z",
+  "updated_at": "2026-11-22T14:58:15Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at chipotle.com",
-      "scraped_at": "2026-11-21T14:59:56Z",
+      "scraped_at": "2026-11-22T14:58:15Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
