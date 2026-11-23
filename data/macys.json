@@ -1,11 +1,11 @@
 {
   "store_id": "macys",
-  "updated_at": "2026-11-22T14:58:15Z",
+  "updated_at": "2026-11-23T18:52:28Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at macys.com",
-      "scraped_at": "2026-11-22T14:58:15Z",
+      "scraped_at": "2026-11-23T18:52:28Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
