@@ -1,11 +1,11 @@
 {
   "store_id": "instacart",
-  "updated_at": "2026-11-26T17:26:19Z",
+  "updated_at": "2026-11-27T17:04:48Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at instacart.com",
-      "scraped_at": "2026-11-26T17:26:19Z",
+      "scraped_at": "2026-11-27T17:04:48Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
