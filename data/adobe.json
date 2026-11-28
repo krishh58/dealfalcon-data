@@ -1,11 +1,11 @@
 {
   "store_id": "adobe",
-  "updated_at": "2026-11-27T17:04:48Z",
+  "updated_at": "2026-11-28T15:53:53Z",
   "codes": [
     {
       "code": "TRUE",
       "description": "Discount at adobe.com",
-      "scraped_at": "2026-11-27T17:04:48Z",
+      "scraped_at": "2026-11-28T15:53:53Z",
       "ai_score": 0,
       "best_deal": false,
       "thumbs_up": 0,
